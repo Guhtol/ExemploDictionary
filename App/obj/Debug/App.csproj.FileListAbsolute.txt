@@ -1,0 +1,7 @@
+C:\guhtol\ExemploDictionary\App\bin\Debug\App.exe.config
+C:\guhtol\ExemploDictionary\App\bin\Debug\App.exe
+C:\guhtol\ExemploDictionary\App\bin\Debug\App.pdb
+C:\guhtol\ExemploDictionary\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\guhtol\ExemploDictionary\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\guhtol\ExemploDictionary\App\obj\Debug\App.exe
+C:\guhtol\ExemploDictionary\App\obj\Debug\App.pdb
