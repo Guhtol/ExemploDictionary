@@ -12,6 +12,7 @@ namespace App
         {
             var exemploSem = new SemActionDictionary();
             var exemploCom = new ComActionDictionary();
+            var exemploIndexer = new ComActionDictionaryIndexer();
 
             OpcoesValor();
             var valor = Console.ReadLine();
@@ -22,6 +23,8 @@ namespace App
 
             exemploSem.Imprimir(valor, tipo);
             exemploCom.Imprimir(valor, tipo);
+            exemploIndexer[valor](valor, tipo);
+
             Console.ReadKey();
         }
 
